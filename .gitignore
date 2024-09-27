@@ -1,0 +1,17 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore downloaded videos
+downloads/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore system files (optional)
+.DS_Store
+Thumbs.db
+
+# Ignore IDE configurations
+.idea/
